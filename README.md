@@ -1,2 +1,2 @@
-# Redes Neurais TensorFow and Keras
+# Redes Neurais TensorFlow and Keras
 Treinando Rede Neural TensorFlowandKeras
